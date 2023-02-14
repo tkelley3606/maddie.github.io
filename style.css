@@ -16,6 +16,6 @@ body{
     background-color: darkolivegreen;
     background-image: linear-gradient(to bottom right, darkolivegreen, lightgreen);
 }
-.td{
+td{
     padding:20px;
 }
