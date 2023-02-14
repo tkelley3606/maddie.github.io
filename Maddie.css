@@ -1,0 +1,21 @@
+.image{
+    height: 652.5px;
+    display: block;
+    width: 330px;
+}
+
+.text{
+    color:white;
+    font-size: 40px;
+    top: 50%;
+    left: 50%;
+    text-align:center;
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: darkolivegreen;
+    background-image: linear-gradient(to bottom right, darkolivegreen, lightgreen);
+}
+td{
+    padding:20px;
+}
